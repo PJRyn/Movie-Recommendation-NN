@@ -1,8 +1,4 @@
 <h1 align="center">Movie Recommendation</h1>
-
-![everything_is_reco_800px_web](https://user-images.githubusercontent.com/110397465/213392639-60a5186b-cd73-45ba-bf35-0d90d481d294.jpg)
-
-
 # Contents:
 
  1. [Project Overview](https://github.com/Prathima0808/Project-4/edit/main/README.md#project-overview)
@@ -19,8 +15,7 @@
 # Project Overview
 
 Knowledge-based, Content-based and Collaborative Recommender systems are built on MovieLens dataset with 100836 movie ratings/reviews. These Recommender systems were
-built using Pandas operations and by fitting KNN (K-Nearest Neighbours Algorithm), NCF (Neural Collaborative Filtering) & deep learning models which use NN (Neural Network) architecture to suggest movies for the users based 
-on similar users and for queries specific to genre, user, movie, rating, popularity.
+built using Pandas operations and by fitting KNN (K-Nearest Neighbours Algorithm), NCF (Neural Collaborative Filtering) & deep learning models which use NN (Neural Network) architecture to suggest movies for the users based on similar users and for queries specific to genre, user, movie, rating, popularity.
 
 # About DataSet
 
