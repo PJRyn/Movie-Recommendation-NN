@@ -1,10 +1,5 @@
 <h1 align="center">Movie Recommendation</h1>
 
-## Team Members: Peregrin Ryan, Anam Khalid, Prathima Polavarapu, Zitarashe Okot
-
-##  https://github.com/Prathima0808/Project-4.git   
-
-
 ![everything_is_reco_800px_web](https://user-images.githubusercontent.com/110397465/213392639-60a5186b-cd73-45ba-bf35-0d90d481d294.jpg)
 
 
@@ -135,7 +130,7 @@ Here is an example of movie recommendations for user 314:
 * [Keras documentation for the Xception model](https://keras.io/applications/#xception)
 * [Pyspark documentation](https://spark.apache.org/docs/latest/api/python/)
 
-
+### Team Members: Peregrin Ryan, Anam Khalid, Prathima Polavarapu, Zitarashe Okot
 
 
 
